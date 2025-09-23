@@ -16,7 +16,7 @@
 
 ภาพรวมการทำงานของระบบ:
 
-![หน้าจอ Dashboard](./images/Screenshot 2025-09-23 110028.png)  
+![หน้าจอ Dashboard](./images/dashboard.png)  
 *รูปที่ 1: หน้า Dashboard*
 
 ---
