@@ -16,11 +16,8 @@
 
 ภาพรวมการทำงานของระบบ:
 
-![หน้าจอ Dashboard](./images/dashboard.png)  
-*รูปที่ 1: หน้า Dashboard แสดงข้อมูล Inkjet ทั้งหมด*
-
-![หน้าจอฟอร์มเพิ่มสินค้า](./images/add_inkjet.png)  
-*รูปที่ 2: ฟอร์มเพิ่ม Inkjet ใหม่*
+![หน้าจอ Dashboard](./images/Screenshot 2025-09-23 110028.png)  
+*รูปที่ 1: หน้า Dashboard*
 
 ---
 
