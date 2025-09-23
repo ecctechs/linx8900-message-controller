@@ -16,7 +16,7 @@
 
 ภาพรวมการทำงานของระบบ:
 
-![หน้าจอ Dashboard](./images/dashboard.png)  
+![หน้าจอ Dashboard](./images/dashboard.jpg)  
 *รูปที่ 1: หน้า Dashboard*
 
 ---
