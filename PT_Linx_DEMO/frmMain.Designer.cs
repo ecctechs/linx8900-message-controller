@@ -86,6 +86,7 @@
             this.btnTest.TabIndex = 3;
             this.btnTest.Text = "Test Print";
             this.btnTest.UseVisualStyleBackColor = true;
+            this.btnTest.Visible = false;
             // 
             // txtPrintText
             // 
@@ -200,6 +201,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(229, 22);
             this.textBox1.TabIndex = 13;
+            this.textBox1.Visible = false;
             // 
             // button2
             // 
@@ -209,6 +211,7 @@
             this.button2.TabIndex = 14;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Visible = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // frmMain
